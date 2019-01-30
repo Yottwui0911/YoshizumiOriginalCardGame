@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\GameController.cs" />
     <Compile Include="Model\GameField.cs" />
     <Compile Include="Model\Player\GamePlayerBase.cs" />
     <Compile Include="Model\Player\Opponent.cs" />
